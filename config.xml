@@ -1,8 +1,8 @@
 <?xml version='1.0' encoding='utf-8'?>
-<widget id="com.dungzi.myhome" version="21" android-versionCode="21" xmlns="http://www.w3.org/ns/widgets"  xmlns:gap="http://phonegap.com/ns/1.0">
-    <name>마이홈</name>
+<widget id="com.dungzi.myhome" version="22" android-versionCode="22" xmlns="http://www.w3.org/ns/widgets"  xmlns:gap="http://phonegap.com/ns/1.0">
+    <name>뉴빌</name>
     <description>	
-        마이홈
+        가장 쉽고 투명한 빌라 정보
     </description>
     <author email="webplug@gmail.com" href="http://www.dungzi.com/">
         Dungzi Team
